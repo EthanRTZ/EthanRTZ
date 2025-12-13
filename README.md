@@ -8,6 +8,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanRTZ&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 
 
